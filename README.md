@@ -4,7 +4,9 @@ The site was opened for several reasons, I am currently activ at Coding Bootcamp
 
 ## The Page "Care for the HL" ##
 
-This is a topic that has moved me for a long time, and I'll use a slogan: "Do more than just watch". So all the news about what I'm going to use for my project will update here. but it still takes a while.
+This is a topic that has moved me for a long time, and I'll use a slogan:  
+"Do more than just watch!"   
+So all the news about what I'm going to use for my project will update here. but it still takes a while.
 
 💞️ I can tell you that much, the project was created so that we can make the world a little bit better. But please be patient! 
 
