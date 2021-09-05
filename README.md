@@ -18,7 +18,7 @@ As I mentioned earlier, I'm currently a student at Coding Bootcamp Europe to lea
 * JS
 * PHP
 
-### I,m learning some news ###
+### I am learning some news ###
 I'm just getting to know Github better and, as a future web front developer, I really understand HTML and CSS
 
 ### Contact ###
