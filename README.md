@@ -11,7 +11,11 @@ So all the news about what I'm going to use for my project will update here. but
 💞️ I can tell you that much, the project was created so that we can make the world a little bit better. But please be patient! 
 
 ### What I spend my time with now ###
-As I mentioned earlier, I'm currently a student at Coding Bootcamp Europe to learn how to realize great web projects, so I'm interested in HTML, CSS, JS, PHP ...
+As I mentioned earlier, I'm currently a student at Coding Bootcamp Europe to learn how to realize great web projects, so I'm interested in:
+* HTML
+* CSS
+* JS
+* PHP
 
 ### I,m learning some news ###
 I'm just getting to know Github better and, as a future web front developer, I really understand HTML and CSS
