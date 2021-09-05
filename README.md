@@ -8,7 +8,8 @@ This is a topic that has moved me for a long time, and I'll use a slogan:
 "Do more than just watch!"   
 So all the news about what I'm going to use for my project will update here. but it still takes a while.
 
-💞️ I can tell you that much, the project was created so that we can make the world a little bit better. But please be patient! 
+💞️ I can tell you that much, the project was created so that we can make the world a little bit better. But please be patient!   
+[Zettt]: https://www.youtube.com/watch?v=Nz22j_pZYUw
 
 ### What I spend my time with now ###
 As I mentioned earlier, I'm currently a student at Coding Bootcamp Europe to learn how to realize great web projects, so I'm interested in:
